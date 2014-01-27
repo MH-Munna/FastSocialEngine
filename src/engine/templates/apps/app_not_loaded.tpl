@@ -1,0 +1,1 @@
+<p><a href="#" onclick="$('#app_config_div').hide(); return false;">Закрыть</a></p>

@@ -1,0 +1,65 @@
+/* 
+    Document   : tyle
+    Created on : 11.10.2013, 15:18:26
+    Author     : root
+    Description:
+        Purpose of the stylesheet follows.
+*/
+@import url('http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=latin,cyrillic-ext,latin-ext,cyrillic');
+
+
+a{
+    text-decoration:none;
+    color:gray;
+}
+a:hover{
+    text-decoration:underline;
+    color:black;
+}
+.butto{
+    width:100px;
+    margin:3px 10px;
+    height:30px;
+    border:1px solid gray;
+    background-color: white;
+    font-weight:bold;
+    border-radius:4px;
+}
+.butto:hover{
+    cursor:pointer;
+    background-color: lightgray;
+}
+.inpus{
+    width:300px;
+    border:1px solid gray;
+    border-radius:4px;
+}
+
+#tab_main1{
+    margin:0 auto;
+}
+
+#tab_main1 td{
+    padding:0 10px;
+}
+html,body{
+    text-align:center;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+#tab_main{
+    margin:0 auto;
+}
+#tab_main .cp{
+    cursor:pointer;
+}
+#tab_main .c1:hover,#tab_main .c2:hover{
+    background-color: #AAA;
+}
+#tab_main td{
+    padding:1px 10px;
+    height:50px;
+}
+#tab_main .c1{
+    background-color: lightgray;
+}
+

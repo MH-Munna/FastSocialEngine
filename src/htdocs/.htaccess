@@ -1,0 +1,4 @@
+php_flag display_errors On
+
+RewriteEngine   On
+RewriteRule ^(.+)/([0-9]+)/(.+)$ /index.php?main=$1&id=$2&action=$3 [L]

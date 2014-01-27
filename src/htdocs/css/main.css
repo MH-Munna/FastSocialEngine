@@ -1,0 +1,54 @@
+body{
+    background-color: #bbbbbb; /* Цвет фона веб-страницы */
+}
+.modwindow{
+    display: none;
+    position: absolute; /* Абсолютное позиционирование */
+    border: 4px double black; /* Параметры границы */
+    background: #e2e2e2; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    top: 100px;
+    left: 100px;
+    z-index: 2;
+}
+/*UPload*/
+.console {
+    border: 1px solid #000;
+    font: 12px "Courier New", Courier, monospace;
+    height: 35px;
+    padding: 5px;
+    width: 500px;
+}
+
+
+
+.hiddenframe {
+    display: none;
+}
+.upload-files li {
+    border: 1px solid #000;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.upload-files li img {
+    display: block;
+}
+.upload-form {
+    background: #ccc;
+    width: 300px;
+}
+
+#progressbar {
+             background-color: black;
+             border-radius: 13px; /* (height of inner div) / 2 + padding */
+             padding: 3px;
+         }
+
+#progressbar div {
+    background-color: orange;
+    width: 0%; /* Adjust with JavaScript */
+    height: 20px;
+    border-radius: 10px;
+}

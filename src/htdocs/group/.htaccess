@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /group/
+RewriteRule ^(.+)$ index.php?group=$1 [QSA,L]
+</IfModule>

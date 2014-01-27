@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /profile/
+RewriteRule ^(.+)$ index.php?profile=$1 [QSA,L]
+</IfModule>

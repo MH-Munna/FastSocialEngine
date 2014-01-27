@@ -1,0 +1,291 @@
+
+
+
+.emo_div{
+    width:172px;
+    position:relative;
+    padding:10px;
+    top:-190px;
+    left:195px;
+    background-color:black;
+    opacity:0.8;
+    border-radius:10px;
+    display:none;
+}
+.emo_get{
+    width:20px;
+    height:20px;
+    background: url('http://st0.vk.me/images/im_smile_cross.png');
+    background-position: 0 23px;
+    display:inline-block;
+    float:right;
+}
+.emo_close{
+    background-position: 0 0;
+}
+.emos{
+    cursor:pointer;
+    border:1px solid black;
+}
+.emos:hover{
+    border:1px solid gray;
+    border-radius:2px;
+}
+
+
+.smil_0{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -0px;
+    display:inline-block;
+    
+}
+.smil_1{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -17px;
+    display:inline-block;
+    
+}
+.smil_2{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -34px;
+    display:inline-block;
+    
+}
+.smil_3{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -51px;
+    display:inline-block;
+    
+}
+.smil_4{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -68px;
+    display:inline-block;
+    
+}
+.smil_5{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -85px;
+    display:inline-block;
+    
+}
+.smil_6{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -102px;
+    display:inline-block;
+    
+}
+.smil_7{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -119px;
+    display:inline-block;
+    
+}
+.smil_8{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -136px;
+    display:inline-block;
+    
+}
+.smil_9{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -153px;
+    display:inline-block;
+    
+}
+.smil_10{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -170px;
+    display:inline-block;
+    
+}
+.smil_11{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -187px;
+    display:inline-block;
+    
+}
+.smil_12{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -204px;
+    display:inline-block;
+    
+}
+.smil_13{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -221px;
+    display:inline-block;
+    
+}
+.smil_14{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -238px;
+    display:inline-block;
+    
+}
+.smil_15{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -255px;
+    display:inline-block;
+    
+}
+.smil_16{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -272px;
+    display:inline-block;
+    
+}
+.smil_17{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -289px;
+    display:inline-block;
+    
+}
+.smil_18{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -306px;
+    display:inline-block;
+    
+}
+.smil_19{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -323px;
+    display:inline-block;
+    
+}
+.smil_20{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -340px;
+    display:inline-block;
+    
+}
+.smil_21{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -357px;
+    display:inline-block;
+    
+}
+.smil_22{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -374px;
+    display:inline-block;
+    
+}
+.smil_23{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -391px;
+    display:inline-block;
+    
+}
+.smil_24{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -408px;
+    display:inline-block;
+    
+}
+.smil_25{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -425px;
+    display:inline-block;
+    
+}
+.smil_26{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -442px;
+    display:inline-block;
+    
+}
+.smil_27{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -459px;
+    display:inline-block;
+    
+}
+.smil_28{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -476px;
+    display:inline-block;
+    
+}
+.smil_29{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -493px;
+    display:inline-block;
+    
+}
+.smil_30{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -510px;
+    display:inline-block;
+    
+}
+.smil_31{
+    width:16px;
+    height:16px;
+    background-image:url('http://st0.vk.me/images/im_emoji_2.png');
+    background-position: 0px -527px;
+    display:inline-block;
+    
+}

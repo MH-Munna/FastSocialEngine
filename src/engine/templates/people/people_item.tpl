@@ -1,0 +1,1 @@
+<a href="/profile/{$profile_id}" title="{$profile_ch_fname} {$profile_ch_lname}" onclick="open_profile({$profile_id});"><img src="{$profile_avatar_url50x50}">{$profile_ch_fname} {$profile_ch_lname}</a>
