@@ -4,31 +4,6 @@
     <title>AvatoriaRu</title>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' />
-    <link data-turbolinks-track="true" href="{$i.base_url}/assets/application.css?body=1" media="screen" rel="stylesheet" />
-    <link data-turbolinks-track="true" href="{$i.base_url}/assets/cabinet_style.css?body=1" media="screen" rel="stylesheet" />
-    <link data-turbolinks-track="true" href="{$i.base_url}/assets/ckeditor/contents.css" media="screen" rel="stylesheet" />
-    <link data-turbolinks-track="true" href="{$i.base_url}/assets/ckeditor/skins/moono/editor.css" media="screen" rel="stylesheet" />
-
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery_ujs.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery.mousewheel.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery.autosize.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/perfect-scrollbar.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery-ui-1.10.3.custom.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery-ui-i18n.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/turbolinks.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/application.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/chosen.jquery.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/jquery.ikSelect.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/owl.carousel.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/cabinet.js?body=1"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/ckeditor/ckeditor.js"></script>
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/ckeditor/adapters/jquery.js"></script>
-
-    <script data-turbolinks-track="true" src="{$i.base_url}/assets/partners.js?body=1"></script>
-
-    <link rel="stylesheet" href="{$i.base_url}/assets/colorbox/colorbox.css" />
-    <script src="{$i.base_url}/assets/colorbox/jquery.colorbox-min.js"></script>
     <script src="{$i.base_url}/js/common.js"></script>
     <script src="{$i.base_url}/js/photo.js"></script>
     <script src="{$i.base_url}/js/apps.js"></script>
@@ -44,12 +19,6 @@
     <link rel="stylesheet" type="text/css" href="{$i.base_url}/css/profile/noty/buttons.css"/>
 
 
-    <meta content="authenticity_token" name="csrf-param" />
-    <meta content="4m/ejPtT0LxQzHvkM9i/JH3gfc+go2dMD+xTHZw6mzw=" name="csrf-token" />
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=cyrillic' rel='stylesheet' type='text/css'>
-
-    <link href='http://fonts.googleapis.com/css?family=Marck+Script&subset=cyrillic' rel='stylesheet' type='text/css'>
-    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <style>
         .audiojs { height: 22px; width: 100%; background: #404040;
             background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(0.5, #555), color-stop(0.51, #444), color-stop(1, #444));

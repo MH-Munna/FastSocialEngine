@@ -1,4 +1,4 @@
-PHPSocial
+FastSocialEngine
 =========
 
 social network in php
